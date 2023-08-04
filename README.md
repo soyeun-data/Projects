@@ -1,1 +1,3 @@
-"# Projects" 
+- news_project : 뉴스 기사 문장 추출 요약 프로젝트
+- baseball_project : 야구 경기 승부 예측 프로젝트
+- wine_project : 고객별 와인의 구매량 분석 및 와인과 어울리는 치즈를 추천 시스템 개발 프로젝트
